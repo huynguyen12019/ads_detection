@@ -1,0 +1,1 @@
+You have to download model from git of ctpn
