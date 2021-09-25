@@ -33,3 +33,19 @@ Epoch 10/10
   https://drive.google.com/drive/folders/1Hisyc2bCbI9K8K4R0dbNU7KyBrMlpDWH?usp=sharing
   ```
 - Status: 
+<p align="center">
+  <img src="./figures/xception.png">
+</p>
+<ul>
+<li> Using 50 epoch:
+
+```
+Epoch 48/50
+55/55 [==============================] - 62s 1s/step - loss: 0.0177 - accuracy: 0.9942 - val_loss: 0.2193 - val_accuracy: 0.9145
+Epoch 49/50
+55/55 [==============================] - 63s 1s/step - loss: 0.0638 - accuracy: 0.9734 - val_loss: 2.3698 - val_accuracy: 0.7275
+Epoch 50/50
+55/55 [==============================] - 63s 1s/step - loss: 0.0390 - accuracy: 0.9844 - val_loss: 8.7965 - val_accuracy: 0.5381
+```
+</ul>
+
