@@ -1,6 +1,7 @@
 # Models for classify ads and non ads image
 ## Resnet
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1idCyiGacw8aMFh9_WTsX-TIxDzWH2yBt?usp=sharing&fbclid=IwAR0likSFXw_jp_AHKn6Efsh86qzZUxN8kv7sInJAeH5dcpXvBQX9pUXOpwM)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1idCyiGacw8aMFh9_WTsX-TIxDzWH2yBt?usp=sharing&fbclid=IwAR0likSFXw_jp_AHKn6Efsh86qzZUxN8kv7sInJAeH5dcpXvBQX9pUXOpwM)
 * Weight Files:
   [Google Drive](https://drive.google.com/drive/folders/1Ei48qmtRVYPlQMuzQA_hL2qJq3gTC4Sw?fbclid=IwAR03psRqtLxESr-VTbXT_NkF6Htd17QDLMgPRQ276r9jYsYpgorr0QfjXCs)
 * Status:
@@ -21,6 +22,7 @@ Epoch 10/10
 ```
 
 ## Xception
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xtpRTJWTl6v_gruG6Syw82B_SjR_8WYd?usp=sharing)
 * Google Drive: 
   ```
