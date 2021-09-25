@@ -37,7 +37,7 @@ Epoch 10/10
   <img src="./figures/xception.png">
 </p>
 <ul>
-<li> Using 10 epoch:
+<li> Using 50 epoch:
 
 ```
 Epoch 48/50
