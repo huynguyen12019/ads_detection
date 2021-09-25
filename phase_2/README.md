@@ -4,7 +4,9 @@
 - Weight Files:
   [Google Drive](https://drive.google.com/drive/folders/1Ei48qmtRVYPlQMuzQA_hL2qJq3gTC4Sw?fbclid=IwAR03psRqtLxESr-VTbXT_NkF6Htd17QDLMgPRQ276r9jYsYpgorr0QfjXCs)
 - Status:
-<img src="./figures/resnet.png">
+<p align="center">
+  <img src="./figures/resnet.png">
+</p>
 <ul>
 <li> Using 10 epoch:
 
