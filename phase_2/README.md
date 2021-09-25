@@ -6,7 +6,7 @@
   [Google Drive](https://drive.google.com/drive/folders/1Ei48qmtRVYPlQMuzQA_hL2qJq3gTC4Sw?fbclid=IwAR03psRqtLxESr-VTbXT_NkF6Htd17QDLMgPRQ276r9jYsYpgorr0QfjXCs)
 * Status:
 <img src="./figures/resnet.png">
-    - Using 10 epoch:
+**  Using 10 epoch:
 ```
 Epoch 00007: saving model to /content/gdrive/MyDrive/model/cp-0007.ckpt
 Epoch 8/10
