@@ -22,12 +22,12 @@ Epoch 10/10
 50/50 [==============================] - 62s 1s/step - loss: 0.1201 - accuracy: 0.9688 - val_loss: 0.1852 - val_accuracy: 0.9474
 ```
 </ul>
+
 ## Xception
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xtpRTJWTl6v_gruG6Syw82B_SjR_8WYd?usp=sharing)
-* Google Drive: 
+- Google Drive: 
   ```
   https://drive.google.com/drive/folders/1Hisyc2bCbI9K8K4R0dbNU7KyBrMlpDWH?usp=sharing
   ```
-* Status:
-* 
+- Status: 
