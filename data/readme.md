@@ -25,13 +25,18 @@ https://drive.google.com/drive/folders/1rKq2ngH6_2gComIX_at02-Efxv5zNGyB?usp=sha
 -   ads
     <div>
     <p style="align:center;border:2px solid #007acc;margin: 4px"><img src="./figures/ads_thanhnien_388.png"></p>
+    <br>
     <p style="align:center;border:2px solid #007acc;margin: 4px"><img src="./figures/ads_TWC_122.png"></p>
+    <br>
     <p style="align:center;border:2px solid #007acc;margin: 4px"><img src="./figures/ads_vnexpress_25.png"></p>
     </div>
+    <br>
 -   non_ads
     <div>
     <p style="align:center;border:2px solid #007acc;margin: 4px"><img src="./figures/non_ads_thanhnien_45.png"></p>
+    <br>
     <p style="align:center;border:2px solid #007acc;margin: 4px"><img src="./figures/non_ads_TWC_32.png"></p>
+    <br>
     <p style="align:center;border:2px solid #007acc;margin: 4px"><img src="./figures/non_ads_vnexpress_32.png"></p>
     </div>
   
