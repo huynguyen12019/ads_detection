@@ -21,6 +21,31 @@ https://drive.google.com/drive/folders/1rKq2ngH6_2gComIX_at02-Efxv5zNGyB?usp=sha
     <li>vnexpress: 69 images</li>
     <li>TWC: 51 images</li>
     </ul>
+## Tree Folder:
+```
+Folder Tree of data foler:
+
++---dataset
+|   +---ctpn_output
+|   |   +---testing_data
+|   |   \---training_data
+|   +---data
+|   |   +---ads
+|   |   +---ctpn_output
+|   |   |   +---ads
+|   |   |   \---non-ads
+|   |   \---non_ads
+|   +---testing_data
+|   +---training_data
+|   \---training_data_phase_2
+|       +---ads
+|       \---non_ads
++---demo
++---readme
++---res
+\---res_oriented
+
+```
 ## Sample:
 -   ads
     <div>
