@@ -30,6 +30,6 @@ _Phần này nêu mô tả dự kiến các kết quả đạt được của đ
 
 #### 2.6. Kế hoạch thực hiện
 
-_Phần này mô tả về kế hoạch thực hiện (với các mốc thời gian tương ứng) cùng với việc phân chia công việc cho các thành viên tham gia đề tài. Tương ứng . Kế hoạch bố trí thời gian nghiên cứu`_
+_Phần này mô tả về kế hoạch thực hiện (với các mốc thời gian tương ứng) cùng với việc phân chia công việc cho các thành viên tham gia đề tài. Tương ứng mục `8. Kế hoạch bố trí thời gian nghiên cứu`_
 
 ### Tài liệu
