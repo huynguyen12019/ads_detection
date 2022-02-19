@@ -1,0 +1,64 @@
+* {
+  font-family: "Josefin Sans", sans-serif;
+}
+.wrapper {
+  width: 250px;
+}
+#logo * {
+  display: inline;
+}
+#logo {
+  margin: 0 auto;
+}
+#logo p {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: rgb(74, 172, 9);
+  white-space: nowrap;
+  vertical-align: middle;
+}
+#logo img {
+  vertical-align: middle;
+}
+#content {
+  border: 2px solid rgb(196, 193, 193);
+  padding: 10px;
+}
+.result__title {
+  font-size: 17px;
+  color: rgb(0, 0, 0);
+  margin-top: 8px;
+}
+.result__prepare {
+  font-size: 40px;
+  font-weight: 700;
+  color: red;
+}
+.result__prepare {
+  color: black;
+}
+.result__wait {
+  color: rgb(74, 172, 9);
+}
+.result__show {
+  font-family: "Josefin Sans", sans-serif;
+  text-align: center;
+  font-size: 15px;
+}
+.accuracy {
+  font-size: 13px;
+  margin-left: 10px;
+}
+#control__predict {
+  display: block;
+  width: 100px;
+  /* float: right; */
+  color: white;
+  margin: 5px auto;
+  padding: 5px;
+  background-color: rgb(74, 172, 9);
+}
+.hidden {
+  display: none;
+}

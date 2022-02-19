@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles/page.css" />
+    <title>My Extension</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div id="logo">
+        <img src="./images/icon.png" />
+        <p>Ads detection</p>
+      </div>
+      <div id="content">
+        <div id="result">
+          <p class="result__title">Kết quả dự đoán:</p>
+          <p class="result__prepare result__show">Đang chờ...</p>
+          <p class="result__wait result__show hidden">Đang dự đoán...</p>
+          <p class="result__ads result__show hidden">✅Chứa quảng cáo</p>
+          <p class="result__nonads result__show hidden">
+            🛑Không chứa quảng cáo
+          </p>
+          <p class="result__title">Accuracy:</p>
+          <div class="accuracy">
+            Quảng cáo:
+            <text class="accuracy__ads">0</text>
+          </div>
+          <br />
+          <div class="accuracy">
+            Không quảng cáo:
+            <text class="accuracy__nonads">0</text>
+          </div>
+        </div>
+      </div>
+      <button id="control__predict">Dự đoán</button>
+    </div>
+    <script type="module" src="./scripts/popup.js"></script>
+  </body>
+</html>
